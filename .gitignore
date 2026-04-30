@@ -39,3 +39,10 @@
 
 # debug information files
 *.dwo
+
+*.~
+*._*
+*.lock
+*.TAG
+rs/target/*
+cpp/gp8413_demo
